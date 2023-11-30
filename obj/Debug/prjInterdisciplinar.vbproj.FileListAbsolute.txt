@@ -1,0 +1,142 @@
+D:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe.config
+D:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe
+D:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.pdb
+D:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.xml
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.AssemblyReference.cache
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.SuggestedBindingRedirects.cache
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmConfig.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmLogin.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmMenu.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmVagas.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.Resources.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.GenerateResource.cache
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CoreCompileInputs.cache
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.exe
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.xml
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.pdb
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.menuLateral.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmDetalheVaga.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADODB.dll
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADOR.dll
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe.config
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.pdb
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.xml
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADOR.dll
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmConfig.resources
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmDetalheVaga.resources
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmLogin.resources
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmMenu.resources
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmVagas.resources
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.menuLateral.resources
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.Resources.resources
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CopyComplete
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.exe
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.xml
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.pdb
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmCadastrar.resources
+C:\Users\aluno\Desktop\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmFuncionarios.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.dll
+D:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.xml
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmCadastrar.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmFuncionarios.resources
+D:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CopyComplete
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe.config
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.pdb
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.xml
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.dll
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\System.Memory.dll
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\System.Numerics.Vectors.dll
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\System.Buffers.dll
+E:\2sem\interdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.xml
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.AssemblyReference.cache
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADODB.dll
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADOR.dll
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.ResolveComReference.cache
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmCadastrar.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmConfig.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmDetalheVaga.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmFuncionarios.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmLogin.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmMenu.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmVagas.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.menuLateral.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.Resources.resources
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.GenerateResource.cache
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CoreCompileInputs.cache
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CopyComplete
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.exe
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.xml
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.pdb
+E:\2sem\interdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmCaixa.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe.config
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.pdb
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.xml
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.dll
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\System.Memory.dll
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\System.Buffers.dll
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.xml
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.AssemblyReference.cache
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADODB.dll
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADOR.dll
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.ResolveComReference.cache
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmCadastrar.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmCaixa.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmConfig.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmDetalheVaga.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmFuncionarios.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmLogin.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmMenu.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmVagas.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.menuLateral.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.Resources.resources
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.GenerateResource.cache
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CopyComplete
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.exe
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.xml
+C:\Users\victo\Downloads\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.pdb
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe.config
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.exe
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.pdb
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\prjInterdisciplinar.xml
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.dll
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\System.Memory.dll
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\System.Buffers.dll
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\bin\Debug\MySql.Data.xml
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.AssemblyReference.cache
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADODB.dll
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\Interop.ADOR.dll
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.ResolveComReference.cache
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmCadastrar.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmCaixa.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmConfig.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmDetalheVaga.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmFuncionarios.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmLogin.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmMenu.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.frmVagas.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.menuLateral.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.Resources.resources
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.GenerateResource.cache
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CoreCompileInputs.cache
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.vbproj.CopyComplete
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.exe
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.xml
+C:\Users\guiantoniazzi\OneDrive\Área de Trabalho\prjInterdisciplinar\prjInterdisciplinar\obj\Debug\prjInterdisciplinar.pdb
